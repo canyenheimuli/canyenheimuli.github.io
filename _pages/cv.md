@@ -73,14 +73,8 @@ Skills
   * Docker
   * GitHub / Git / Version control
 
-* Tools and Frameworks:
+* Tools and Methods:
   * A/B, Hypothesis testing
   * Market Segmentation
   * Database design/data modeling
   * Monte Carlo Simulation
-
-Writing
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-writing-cv.html  %}
-  {% endfor %}</ul>
