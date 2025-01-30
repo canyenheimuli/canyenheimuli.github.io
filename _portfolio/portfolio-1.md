@@ -4,4 +4,6 @@ excerpt: "From a school project on predicting home values for a Kaggle competiti
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This project is about making a machine learning model to predicti house prices. In it, I create and evaluate a number of different models that use different algorithms, and compare and constrast their various results. The data used for this project is that of the Kaggle competition [House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview).
+
+More: [Predicting House Prices with Machine Learning on GitHub](https://github.com/canyenheimuli/Predicting-Home-Values-with-Machine-Learning)
