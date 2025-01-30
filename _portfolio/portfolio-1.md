@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Predicting House Prices with Machine Learning"
+excerpt: "From a school project on predicting home values for a Kaggle competition"
 collection: portfolio
 ---
 
