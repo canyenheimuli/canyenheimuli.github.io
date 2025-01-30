@@ -21,4 +21,4 @@ Despite my work and education, I wasn't always in data science! During my colleg
 
 In my free time, I enjoy hiking, reading, playing video games, and collecting houseplants; and I'm also learning how to knit.
 
-I would absolutely love to connect with you on [LinkedIn](https://www.linkedin.com/in/canyen-heimuli-790072122/)!
+I would absolutely love to connect on [LinkedIn](https://www.linkedin.com/in/canyen-heimuli-790072122/)!
