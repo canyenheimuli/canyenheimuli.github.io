@@ -81,6 +81,6 @@ Skills
 
 Writing
 ======
-  <ul>{% for post in site.writing reversed %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-writing-cv.html  %}
   {% endfor %}</ul>
