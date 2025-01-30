@@ -60,20 +60,22 @@ Skills
   * Large Language Models
     * Prompt engineering
     * Model fine-tuning
-  * Tableau
   * d3.js
-  * Microsft Azure
-  * AWS
-  * Google Cloud Compute
-  * Hadoop
   * PySpark
   * Databricks
   * Scala
   * HTML / CSS
+* Applications
+  * Tableau
+  * Microsft Azure
+  * AWS
+  * Google Cloud Compute
+  * Hadoop
   * Docker
   * GitHub / Git / Version control
+  * Qualtrics
 
-* Tools and Methods:
+* Analytical Methods:
   * A/B, Hypothesis testing
   * Market Segmentation
   * Database design/data modeling
