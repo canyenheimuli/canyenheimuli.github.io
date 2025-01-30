@@ -56,7 +56,7 @@ Skills
     * Jinja
   * SQL
     * SQLite
-    * MySQL/MySQL Workbench
+    * MySQL
   * Large Language Models
     * Prompt engineering
     * Model fine-tuning
@@ -70,6 +70,7 @@ Skills
   * Microsft Azure
   * AWS
   * Google Cloud Compute
+  * MySQL Workbench
   * Hadoop
   * Docker
   * GitHub / Git / Version control
@@ -78,5 +79,7 @@ Skills
 * Analytical Methods:
   * A/B, Hypothesis testing
   * Market Segmentation
+  * Factor Analysis
+  * Supervised and Unsupervised Machine Learning models
   * Database design/data modeling
   * Monte Carlo Simulation
