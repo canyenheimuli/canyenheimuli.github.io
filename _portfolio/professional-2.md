@@ -5,6 +5,6 @@ collection: portfolio
 category: "professional"
 ---
 
-y2weights is an open source package which I took the lead on developing, regularly contribute to, and currently help maintain for Y2 Analytics. The package is a suite of helper functions and tools that assist users in survey/other data weighting and post-stratification. The functions in the package depend on R's "survey" statistical analysis package which uses a weighting algorithm called iterative proportional fitting (also known as raking). These functions can be used to weight data to specified levels of one variable, or multiple variables at once.
+y2weights is open source package of functions and tools for survey/other data weighting and post-stratification. The functions in the package depend on R's "survey" statistical analysis package which uses a weighting algorithm called iterative proportional fitting (also known as raking). I took the lead on developing, regularly contribute to, and currently help maintain this package for Y2 Analytics.
 
 See the source code [here](https://github.com/y2analytics/y2weights).
