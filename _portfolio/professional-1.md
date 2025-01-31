@@ -1,6 +1,6 @@
 ---
 title: "y2clerk Package"
-excerpt: "A package for data analysis maintained by Y2 Analytics that I contribute to"
+excerpt: "A package for data analysis that I contribute to and help maintain for Y2 Analytics"
 collection: portfolio
 category: "professional"
 ---
