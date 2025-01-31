@@ -2,6 +2,7 @@
 title: "Forecasting and Visualizing Bird Sightings in US National Parks"
 excerpt: "From a school project on forecasting the likelihood of bird sightings in popular US National Parks"
 collection: portfolio
+category: "personal"
 ---
 
 In this project, some of my masters program cohort students and I collected and merged data on bird sightings and US National Parks to show where hikers are more likely to see birds. 
