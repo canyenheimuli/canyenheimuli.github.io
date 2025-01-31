@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "y2artisan"
 excerpt: "A package for data visualization maintained by Y2 Analytics that I contribute to"
 collection: portfolio
