@@ -9,10 +9,14 @@ author_profile: true
 
 <h2>Professional Projects/Programming</h2>
 {% for post in site.professional %}
-  {% include archive-single.html %}
+  {% if post.category == "professional" %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
 
 <h2>Personal/School Projects</h2>
 {% for post in site.portfolio reversed %}
-  {% include archive-single.html %}
+  {% if post.category == "personal" %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
