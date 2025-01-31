@@ -1,6 +1,6 @@
 ---
 title: "y2weights Package"
-excerpt: "A package for data weighting and post-stratification maintained by Y2 Analytics that I contribute to"
+excerpt: "A package for data weighting and post-stratification that I contribute to and help maintain for Y2 Analytics"
 collection: portfolio
 category: "professional"
 ---
