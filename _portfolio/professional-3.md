@@ -1,6 +1,6 @@
 ---
 title: "y2artisan Package"
-excerpt: "A package for data visualization maintained by Y2 Analytics that I contribute to"
+excerpt: "A package for data visualization that I contribute to and help maintain for Y2 Analytics"
 collection: portfolio
 category: "professional"
 ---
