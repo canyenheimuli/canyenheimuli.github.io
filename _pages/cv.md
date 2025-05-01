@@ -16,8 +16,7 @@ Education
 
 **Work experience**
 ======
-## Y2 Analytics, Salt Lake City UT
-
+### Y2 Analytics, Salt Lake City UT
 Senior Data Analyst (Jan. 2023 - Present)
 * Led and/or assisted in projects for a wide range of clients including Meta, Amazon, Google, and Microsoft; developed and refined report automation processes that reduce analysis and reporting times by 50% on average
 * Improved and expanded company codebase of data visualization and report creation tools, leading to a 100% increase in speed for certain projects
@@ -33,8 +32,7 @@ Junior Data Analyst (March 2020 - Jan. 2023)
 Data Analysis Intern (Sep. 2019 – March 2020)
 * Led analysis on a project with a local newspaper for a period of 9 months; automated data visualization and reporting processes, saving an average of 15 hours of work per week
 
-## Brigham Young University, Provo UT
-
+### Brigham Young University, Provo UT
 Research Assistant (Jan. 2018 – Sep. 2019)
 * Analyzed and modeled US voter turnout using datasets of over 400 million records
 * Wrote STATA code scripts for automation and analysis, increasing analysis and research efficiency by 50%
