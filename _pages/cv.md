@@ -34,6 +34,7 @@ Data Analysis Intern (Sep. 2019 – March 2020)
 * Led analysis on a project with a local newspaper for a period of 9 months; automated data visualization and reporting processes, saving an average of 15 hours of work per week
 
 **Brigham Young University, Provo UT**
+
 Research Assistant (Jan. 2018 – Sep. 2019)
 * Analyzed and modeled US voter turnout using datasets of over 400 million records
 * Wrote STATA code scripts for automation and analysis, increasing analysis and research efficiency by 50%
