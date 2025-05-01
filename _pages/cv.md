@@ -17,6 +17,7 @@ Education
 **Work experience**
 ======
 **Y2 Analytics, Salt Lake City UT**
+
 Senior Data Analyst (Jan. 2023 - Present)
 * Led and/or assisted in projects for a wide range of clients including Meta, Amazon, Google, and Microsoft; developed and refined report automation processes that reduce analysis and reporting times by 50% on average
 * Improved and expanded company codebase of data visualization and report creation tools, leading to a 100% increase in speed for certain projects
