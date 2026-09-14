@@ -16,8 +16,14 @@ Education
 
 **Work experience**
 ======
+### YouGov America, New York NY
+Senior Analytics Analyst (Sep. 2025 - Present)
+* Led team transition from legacy R coding approach to modern (tidyverse) approach, reducing time spent on certain phases of data post-processing by approximately 50% for basic projects
+* Contributed to team initiative to automate data post-processing and delivery by retrofitting ad-hoc, informal analysis procedures into formalized data pipelines, reducing time spent on a high-profile, high-value project by approximately 70%
+* Managed team migration of codebase and production environment to a remote version controlled repository, significantly decreasing time spent on engineering and development and significantly increased production efficiency
+
 ### Y2 Analytics, Salt Lake City UT
-Senior Data Analyst (Jan. 2023 - Present)
+Senior Data Analyst (Jan. 2023 - Sep. 2025)
 * Led and/or assisted in projects for a wide range of clients including Meta, Amazon, Google, and Microsoft; developed and refined report automation processes that reduce analysis and reporting times by 50% on average
 * Improved and expanded company codebase of data visualization and report creation tools, leading to a 100% increase in speed for certain projects
 * Participated in the implementation of machine learning (XGBoost) predictive models for modeling voter turnout, increasing code efficiency by 7%
@@ -47,8 +53,8 @@ Skills
   * HTML & CSS
   * Scala
   * PySpark
-  * Version Control (Git/GitHub)
-  * Git Bash
+  * Git Version Control (Git/GitHub)
+  * Bash/ssh/zsh
   * API Integration
 * Data Analysis
   * R (dplyr, tidyverse)
@@ -73,7 +79,7 @@ Skills
   * MaxDiff analysis
   * conjoint analysis
   * factor analysis
-  * Survey design and programming (Qualtrics, Survey Monkey)
+  * Survey design and programming (Qualtrics, Survey Monkey, YouGov)
   * Qualitative analysis
   * Monte Carlo simulation
   * Linear regression
@@ -87,9 +93,10 @@ Skills
   * Python (scikit-learn, TensorFlow, Keras)
   * Neural networks & deep learning
   * Azure Machine Learning
-  * LLMs
-  * Prompt engineering
+  * Natural Language Processing (HuggingFace, sentence transformer models, semantic similarity)
+  * LLMs, RAG, and prompt engineering
 * Data Warehousing, Big Data, & Cloud Compute Tools
+  * Crunch
   * Databricks
   * Hadoop
   * Scala
